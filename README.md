@@ -1,6 +1,6 @@
 # workshop_3_taps_ui
 
-A new Flutter project.
+Picture file name Example Screenshot_Project
 
 ## Getting Started
 
